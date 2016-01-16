@@ -5,6 +5,7 @@ h1{
 }
 .content{
 	width: 50%;
+	margin: 50%;
 	position:center;
 	background-color:rgb(190, 190, 190);
 	border: hidden;
