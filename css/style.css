@@ -31,6 +31,7 @@ h1{
 }
 .airplane{
 	position: center;
+	float: right;
 	margin-right: 0px;
 	margin-left: 10px;
 }
