@@ -24,5 +24,8 @@ h1{
 	font-family: 'Fjalla One', sans-serif;
 	color: black;
 	margin:10px;
-	padding: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
