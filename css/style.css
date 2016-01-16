@@ -1,9 +1,20 @@
 h1{
 	font-family: 'Fjalla One', sans-serif;
 	text-align: center;
-	color:blue;
+	color:red;
 }
 .content{
+	width: 100%;
+	position:center;
+	background-color:rgba(55,55,55);
+	border: hidden;
+	border-radius: 25px;
+	box-shadow: 10px 5px 5px black;
+}
+.content p{
+	text-align: center;
 	font-family: 'Fjalla One', sans-serif;
 	color: black;
+	margin:10px;
+	padding: 10px;
 }
