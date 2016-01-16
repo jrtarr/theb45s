@@ -1,4 +1,9 @@
 h1{
+	font-family: 'Fjalla One', sans-serif;
 	text-align: center;
 	color:red;
+}
+.content{
+	font-family: 'Fjalla One', sans-serif;
+	color: black;
 }
