@@ -1,11 +1,19 @@
+html, body{
+	background-image: url(../img/plane.jpg);
+	background-color: white;
+	background-size: cover;
+	height: 100%;
+}
+
 h1{
 	font-family: 'Fjalla One', sans-serif;
+	font-size: 58pt;
 	text-align: center;
 	color:red;
 }
 .content{
 	width: 50%;
-	margin: 25%;
+	margin-left: 25%;
 	position:center;
 	background-color:rgb(190, 190, 190);
 	border: hidden;
