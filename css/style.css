@@ -6,7 +6,7 @@ h1{
 .content{
 	width: 100%;
 	position:center;
-	background-color:rgba(55,55,55);
+	background-color:rgb(190, 190, 190);
 	border: hidden;
 	border-radius: 25px;
 	box-shadow: 10px 5px 5px black;
