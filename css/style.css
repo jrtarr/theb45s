@@ -30,7 +30,7 @@ h1{
 	padding-bottom: 50px;
 }
 .airplane{
-	float: left;
+	position: center;
 	margin-right: 0px;
 	margin-left: 10px;
 }
