@@ -39,12 +39,14 @@ h1{
 .bclogo{
 	margin-left: 40%;
 	padding-right: 20px;
+	padding-bottom: 10px;
 }
 .fblogo{
 	width: 60px;
 	height: 60px;
 	margin-right: 40%;
 	padding-left: 20px;
+	padding-bottom: 10px;
 
 }
 .airplane{
