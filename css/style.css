@@ -47,5 +47,12 @@ h1{
 	padding-left: 10px;
 }
 .audioplayer{
-	margin-left: 50%;
+	float: left;
+	background-color:white;
+	border: hidden;
+	border-radius: 25px;
+	box-shadow: 10px 5px 5px black;
+}
+.playeriframe{
+	padding: 20px;
 }
