@@ -45,10 +45,7 @@ h1{
 	height: 60px;
 	margin-right: 40%;
 	padding-left: 10px;
-
 }
-.airplane{
-	position: center;
-	margin-right: 0px;
-	margin-left: 10px;
+.audioplayer{
+	margin-left: 50%;
 }
