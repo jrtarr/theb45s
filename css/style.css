@@ -35,6 +35,10 @@ h1{
 	width: 50%;
 	margin-left: 25%;
 	margin-top: 5%;
+	-webkit-transition: 1s ease-in-out;
+    -moz-transition: 1s ease-in-out;
+    -o-transition: 1s ease-in-out;
+    transition: 1s ease-in-out;
 }
 .logo:hover{
 	-webkit-transform: rotate(360deg) scale(2);
