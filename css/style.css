@@ -47,7 +47,7 @@ h1{
 	padding-left: 10px;
 }
 .audioplayer{
-	float: right;
+	float: left;
 	background-color:white;
 	border: hidden;
 	border-radius: 25px;
