@@ -36,13 +36,6 @@ h1{
 	margin-left: 25%;
 	margin-top: 5%;
 }
-#logo:hover{
-	-webkit-transform: rotate(360deg) scale(2);
-    -moz-transform: rotate(360deg) scale(2);
-    -o-transform: rotate(360deg) scale(2);
-    -ms-transform: rotate(360deg) scale(2);
-    transform: rotate(360deg) scale(2);
-}
 .bclogo{
 	margin-left: 40%;
 	padding-right: 10px;
