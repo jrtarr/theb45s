@@ -23,7 +23,6 @@ h1{
 /*------------------General----------------*/
 
 .content{
-	position:center;
 	background-color:white;
 	border: hidden;
 	border-radius: 10px;
@@ -59,7 +58,7 @@ h1{
 }
 #navbar {
     width: 50%;
-    height: 4max;
+    height: 4vmax;
     margin: auto;
     font-size: 1.8vmax;
     font-family: 'Fjalla One', sans-serif;
@@ -105,7 +104,7 @@ padding-right: 1vmax;
     color: white;
     padding: 8px 8px 8px 8px;
 }
-/*-------------------Home-------------------*/
+/*--------------Home-------------------*/
 #construction{
 	margin: auto;
 	margin-top: 20px;

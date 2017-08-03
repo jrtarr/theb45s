@@ -1,0 +1,508 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"un",
+				"underline"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"p",
+				"Photos/"
+			],
+			[
+				"inline",
+				"inline"
+			],
+			[
+				"e",
+				"visible"
+			],
+			[
+				"jp",
+				"8.JPG"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"my",
+				"my_surveys"
+			],
+			[
+				"quest",
+				"question_info"
+			],
+			[
+				"an",
+				"answer"
+			],
+			[
+				"res",
+				"response_id"
+			],
+			[
+				"ques",
+				"question_id"
+			],
+			[
+				"is_",
+				"is_array"
+			],
+			[
+				"sur",
+				"survey_id"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"f",
+				"fixmyshit"
+			],
+			[
+				"thing",
+				"thing"
+			],
+			[
+				"mysql",
+				"mysql_link"
+			],
+			[
+				"real_es",
+				"mysql_real_escape_string"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"ans",
+				"ans_array"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"array",
+				"arraypos"
+			],
+			[
+				"stud",
+				"student_order"
+			],
+			[
+				"next_",
+				"next_student_id"
+			],
+			[
+				"array_",
+				"array_id"
+			],
+			[
+				"cur",
+				"cur_id"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"next",
+				"next_Student"
+			],
+			[
+				"curr",
+				"curr_ID"
+			],
+			[
+				"nex",
+				"next_student_id"
+			],
+			[
+				"current",
+				"current_student_name"
+			],
+			[
+				"di",
+				"diff"
+			],
+			[
+				"number",
+				"number_two"
+			],
+			[
+				"num",
+				"number_one"
+			],
+			[
+				"number_",
+				"number_two"
+			],
+			[
+				"nu",
+				"number2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 637.0
+	},
+	"console":
+	{
+		"height": 190.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/bass1/Documents/webdev/theb45s.github.io"
+	],
+	"file_history":
+	[
+		"/C/Users/bass1/Documents/webdev/theb45s.github.io/contact.html",
+		"/C/Users/bass1/Documents/webdev/theb45s.github.io/music.html",
+		"/C/Users/bass1/Documents/webdev/theb45s.github.io/bio.html",
+		"/C/Users/bass1/Documents/webdev/theb45s.github.io/schedule.html",
+		"/C/Users/bass1/Documents/webdev/theb45s.github.io/css/style2.css",
+		"/C/Users/bass1/Documents/webdev/theb45s.github.io/index.html",
+		"/C/Users/bass1/Documents/webdev/theb45s.github.io/css/style.css",
+		"/C/Users/bass1/Documents/webdev/theb45s.github.io/newindex.html",
+		"/C/Users/bass1/Documents/webdev/theb45s.github.io/css/bootstrap.css",
+		"/C/Users/bass1/Desktop/CGT-456-Final/views/login.php",
+		"/C/Users/bass1/Desktop/CGT-456-Final/index.php",
+		"/C/Users/bass1/Desktop/CGT-456-Final/src/scss/style.scss",
+		"/C/Users/bass1/Desktop/CGT-456-Final/env.php",
+		"/C/Users/bass1/Documents/webdev/theb45s.github.io/pictures.html",
+		"/C/Users/bass1/Documents/webdev/theb45s.github.io/video.html",
+		"/C/Users/bass1/Documents/webdev/theb45s.github.io/articles.html",
+		"/C/Users/bass1/Desktop/CSSReset.com - Keeping Footer At The Bottom Of The Page/style.css",
+		"/C/Users/bass1/Desktop/CSSReset.com - Keeping Footer At The Bottom Of The Page/index.html",
+		"/C/Users/bass1/Documents/webdev/theb45s.github.io/css/unslider.css",
+		"/C/Users/bass1/Documents/webdev/theb45s.github.io/js/slideshow.js",
+		"/C/Users/bass1/Documents/webdev/theb45s.github.io/slideme.css",
+		"/C/Users/bass1/Documents/webdev/theb45s.github.io/jquery.slideme-1.21.71.js",
+		"/C/Users/bass1/Desktop/theb45s/css/style2.css",
+		"/C/Users/bass1/Desktop/theb45s/index.html",
+		"/C/Users/bass1/Desktop/theb45s/index2.html",
+		"/C/Users/bass1/Documents/webdev/theb45s/css/style.css",
+		"/C/Users/bass1/Documents/webdev/theb45s/music.html",
+		"/C/Users/bass1/Documents/webdev/theb45s/contact.html",
+		"/C/Users/bass1/Documents/webdev/theb45s/schedule.html",
+		"/C/Users/bass1/Documents/webdev/theb45s/index.html",
+		"/C/Users/bass1/Documents/webdev/theb45s/js/bootstrap.js",
+		"/C/Users/bass1/Documents/webdev/theb45s/video.html",
+		"/C/Users/bass1/Documents/webdev/theb45s/pictures.html",
+		"/C/Users/bass1/Documents/webdev/theb45s/articles.html",
+		"/D/JackSite/index.html",
+		"/D/JackSite/css/style.css",
+		"/C/Users/bass1/Documents/CGT 141/Tarr_Project 1/WWW/index.html",
+		"/C/Users/bass1/Documents/CGT 141/Tarr_james.zip",
+		"/C/Users/bass1/Documents/CGT 141/Lab4/css/master.css",
+		"/C/Users/bass1/Documents/CGT 141/Lab4/index.html",
+		"/C/Users/bass1/Documents/webdev/theb45s/js/loading_logo.js",
+		"/C/Users/bass1/Documents/CGT 141/Tarr_Project 1/WWW/overview.html",
+		"/C/Users/bass1/Documents/CGT 141/Tarr_Project 1/WWW/family.html",
+		"/C/Users/bass1/Documents/webdev/jrtarr.github.io/index.html",
+		"/C/Users/bass1/Documents/CGT356/project-03/www/index.php",
+		"/C/Users/bass1/Documents/CGT356/project-03/www/create-recipient.php",
+		"/C/Users/bass1/Documents/CGT356/project-03/www/make-private.php",
+		"/C/Users/bass1/Documents/CGT356/project-03/www/view-survey.php",
+		"/C/Users/bass1/Documents/CGT356/project-03/www/view-response.php",
+		"/C/Users/bass1/Documents/CGT356/project-03/www/view-responses.php",
+		"/C/Users/bass1/Documents/CGT356/project-03/www/edit-survey.php",
+		"/C/Users/bass1/Documents/CGT356/project-03/www/security.php",
+		"/C/Users/bass1/Documents/CGT356/project-03/www/logout.php",
+		"/C/Users/bass1/Documents/CGT356/project-03/www/login-user.php",
+		"/C/Users/bass1/Documents/CGT356/project-03/www/login.php",
+		"/C/Users/bass1/Documents/CGT356/project-03/www/helpers.php",
+		"/C/Users/bass1/Documents/CGT356/project-03/www/create-survey.php",
+		"/C/Users/bass1/Documents/CGT356/project-03/www/answer-survey.php",
+		"/C/Users/bass1/Documents/CGT356/project-03/www/create-user.php",
+		"/C/Users/bass1/Documents/CGT356/project-03/www/edit-question.php",
+		"/C/Users/bass1/Documents/CGT356/project-03/www/create-question.php",
+		"/C/Users/bass1/Documents/CGT356/project-03/www/create-choice.php",
+		"/C/Users/bass1/Documents/CGT356/project-02/www/product_create.php",
+		"/C/Users/bass1/Documents/CGT356/lab-12/www/remove-users.sql",
+		"/C/Users/bass1/Documents/CGT356/lab-12/www/find-users.sql",
+		"/C/Users/bass1/Documents/CGT356/lab-12/www/load-database.sql",
+		"/C/Users/bass1/Documents/CGT356/lab-12/www/alter-users.sql",
+		"/C/Users/bass1/Documents/CGT356/lab-13/www/favorite-things.sql",
+		"/C/Users/bass1/Documents/CGT356/lab-13/www/chocolate-chip.sql",
+		"/C/Users/bass1/Documents/CGT356/project-02/www/sale-details.php",
+		"/C/Users/bass1/Documents/CGT356/project-02/www/sales.php",
+		"/C/Users/bass1/Documents/CGT356/project-02/www/new-sale.php",
+		"/C/Users/bass1/Documents/CGT356/project-02/www/index.php",
+		"/C/Users/bass1/Documents/CGT356/project-02/www/product_update.php",
+		"/C/Users/bass1/Documents/CGT356/project-02/www/sale-update.php",
+		"/C/Users/bass1/Documents/CGT356/project-02/project2-structure.sql",
+		"/C/Users/bass1/Documents/CGT356/lab-15/www/index.php",
+		"/C/Users/bass1/Documents/CGT356/project-02/www/edit-product.php",
+		"/C/Users/bass1/Documents/CGT356/project-02/www/new_product.php",
+		"/C/Users/bass1/Documents/CGT356/lab-10/www/index.php",
+		"/C/Users/bass1/Documents/CGT356/lab-08/www/index.php",
+		"/C/Users/bass1/Documents/CGT356/lab-15/www/deactivate-user.php",
+		"/C/Users/bass1/Documents/CGT356/lab-15/www/create-user.php",
+		"/C/Users/bass1/Documents/CGT356/project-02/www/db_connect.php",
+		"/C/Users/bass1/Documents/CGT356/project-02/www/activate.php",
+		"/C/Users/bass1/Documents/CGT356/project-02/www/deactivate.php",
+		"/C/Users/bass1/Documents/CGT356/lab-14/www/create-user.php",
+		"/C/Users/bass1/Documents/CGT356/lab-15/lab-db.sql",
+		"/C/Users/bass1/Documents/CGT356/lab-15/www/db_connect.php",
+		"/C/Users/bass1/Documents/CGT356/lab-15/www/user-details.php",
+		"/C/Users/bass1/Documents/CGT356/lab-15/www/.gitkeep",
+		"/C/Users/bass1/Documents/CGT356/lab-14/www/deactivate-user.php",
+		"/C/Users/bass1/Documents/CGT356/lab-14/www/index.php",
+		"/C/Users/bass1/Documents/CGT356/lab-14/www/db_connect.php",
+		"/C/Users/bass1/Documents/CGT356/lab-03/www/index.html",
+		"/C/Users/bass1/Documents/CGT356/lab-13/lab-base.sql",
+		"/C/Users/bass1/Documents/CGT356/lab-12/lab-base.sql",
+		"/C/Users/bass1/Documents/CGT356/lab-11/www/lab_11_SQL.sql",
+		"/C/Users/bass1/Documents/CGT356/lab-10/www/old_fibonacci.php",
+		"/C/Users/bass1/Documents/CGT356/lab-10/www/new_fibonacci.php",
+		"/C/Users/bass1/Documents/CGT356/project-01/www/reset.php",
+		"/C/Users/bass1/Documents/CGT356/project-01/www/answer_key.json",
+		"/C/Users/bass1/Documents/CGT356/project-01/www/results.php",
+		"/C/Users/bass1/Documents/CGT356/project-01/www/helper_functions.php",
+		"/C/Users/bass1/Documents/CGT356/project-01/www/submit.php",
+		"/C/Users/bass1/Documents/CGT356/project-01/www/index.php",
+		"/C/Users/bass1/Documents/CGT356/lab-06/www/debug-me.php",
+		"/C/Users/bass1/Documents/CGT356/lab-04/www/add_item.php",
+		"/C/Users/bass1/Documents/CGT356/lab-04/www/index.php",
+		"/C/Users/bass1/Documents/CGT356/lab-03/www/mad-libs.php",
+		"/C/Users/bass1/Documents/CGT356/lab-02/www/explicit-post.html",
+		"/C/Users/bass1/Documents/CGT356/lab-02/www/index.html",
+		"/C/Users/bass1/Documents/CGT356/lab-01/www/index.html",
+		"/C/Users/bass1/Documents/CGT356/lab-07/www/class-roster.json",
+		"/C/Users/bass1/Documents/CGT356/lab-07/www/reset.php",
+		"/C/Users/bass1/Documents/CGT356/lab-07/www/helper_functions.php",
+		"/C/Users/bass1/Documents/CGT356/lab-07/www/index.php",
+		"/C/Users/bass1/Documents/CGT356/lab-04/www/remove_item.php",
+		"/C/Users/bass1/Documents/CGT356/lab-03/www/list-members.php",
+		"/C/Users/bass1/Documents/CGT356/lab-05/www/fibonacci-sequence.php",
+		"/C/Users/bass1/Documents/CGT356/lab-04/www/logout.php",
+		"/C/Users/bass1/Documents/CGT356/lab-03/www/subtract-numbers.php",
+		"/D/Backup 2.0/Classes/Tarr_Project 1 and 2/WWW/css/style.css",
+		"/C/Users/bass1/Documents/CGT 141/Tarr_Project 1/WWW/css/style.css",
+		"/C/Users/bass1/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/C/Users/bass1/AppData/Roaming/Sublime Text 3/Packages/User/GutterColor.sublime-settings",
+		"/C/Users/bass1/Documents/CGT356/lab-02/www/delete-button.html",
+		"/C/Users/bass1/Documents/CGT356/lab-02/www/explicit-get.html"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"font-size",
+			"footer",
+			"}",
+			"Footer",
+			"}",
+			"foot",
+			"float: left",
+			"#777",
+			"ul",
+			".navbar-toggle",
+			".navbar-default .navbar-toggle",
+			"icon-bar",
+			"navbar-toggle",
+			".navbar-nav",
+			"nav",
+			"background-color",
+			"border",
+			"docum",
+			"red",
+			"navbar",
+			"if($mysql_link->error) throw new \\Exception($mysql_link->error);",
+			"ans_array",
+			"]</"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "siteSublime.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
